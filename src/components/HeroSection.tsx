@@ -22,7 +22,7 @@ const HeroSection = ({ scrollToSection }: HeroSectionProps) => {
           </div>
           <div className="flex items-center space-x-2 bg-card p-4 rounded-lg shadow-sm">
             <Icon name="Clock" className="h-5 w-5 text-primary" />
-            <span className="text-sm font-medium">Работаем 24/7</span>
+            <span className="text-sm font-medium">Работаем 7/0</span>
           </div>
           <div className="flex items-center space-x-2 bg-card p-4 rounded-lg shadow-sm">
             <Icon name="Award" className="h-5 w-5 text-primary" />
